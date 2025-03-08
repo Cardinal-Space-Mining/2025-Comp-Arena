@@ -6,4 +6,4 @@ This is the arena for the 2025 COSMIC Competition at ISU.
 
 
 ## BOM
-[here](https://docs.google.com/spreadsheets/d/1jChV3lFjTMLbPPP5Rdl4qC_MZ4w6CjEO890WK_DjVVk/edit?gid=0#gid=0)
+[here](https://docs.google.com/spreadsheets/d/1jChV3lFjTMLbPPP5Rdl4qC_MZ4w6CjEO890WK_DjVVk/edit?usp=sharing)
