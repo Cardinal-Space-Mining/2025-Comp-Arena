@@ -120,8 +120,8 @@ It's just a basic panel with different sheeting
 | Catagory| Volume (in^3) |
 | :---------------- | :------: |
 | Total Volume       |    861625.87   | 
+| Regolith Volume |  743268.12   | 
+| Non-Regolith Volume | 118357.74 |
 | Wood Volume      |   82497.11   | 
 | Plastic Volume    |  30002.63   | 
 | Iron Volume  |           97.22 |
-| Regolith Volume |  743268.12   | 
-| Non-Regolith Volume | 118357.74 |
