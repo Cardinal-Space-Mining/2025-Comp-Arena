@@ -96,7 +96,32 @@ It's just a basic panel with different sheeting
 ### Arena Assembly Instructions
 
 1. Install Floor
-2. Install Walls and wall sheeting
+	![Install Floor](https://github.com/Cardinal-Space-Mining/2025-Comp-Arena/blob/main/Arena/img/install_steps/InstallFloor.PNG?raw=true)
+2. Install Walls, Bracing, and Sheeting
+![Install Wall](https://github.com/Cardinal-Space-Mining/2025-Comp-Arena/blob/main/Arena/img/install_steps/Install%20Walls,%20Sheeting,%20and%20bolts.PNG?raw=true)
 3. Install Crown
+![InstallCrown](https://github.com/Cardinal-Space-Mining/2025-Comp-Arena/blob/main/Arena/img/install_steps/InstallCrown.PNG?raw=true)
 4. Add Regolith
+![DumpLime](https://github.com/Cardinal-Space-Mining/2025-Comp-Arena/blob/main/Arena/img/install_steps/DumpRegolith.PNG?raw=true)
 5. Add Roof
+![AddRoof](https://github.com/Cardinal-Space-Mining/2025-Comp-Arena/blob/main/Arena/img/install_steps/InstallRoof.PNG?raw=true)
+
+### Arena Disassembly Instructions
+1. Remove Roof
+![DumpLime](https://github.com/Cardinal-Space-Mining/2025-Comp-Arena/blob/main/Arena/img/install_steps/DumpRegolith.PNG?raw=true)
+2. Remove Walls
+![Remove Walls](https://github.com/Cardinal-Space-Mining/2025-Comp-Arena/blob/main/Arena/img/destruction_steps/RemoveWalls.PNG?raw=true)
+3. Remove Regolith
+![Remove Regolith](https://github.com/Cardinal-Space-Mining/2025-Comp-Arena/blob/main/Arena/img/install_steps/InstallFloor.PNG?raw=true)
+4. Remove tarp and flooring
+
+
+### Volumetric Properties
+| Catagory| Volume (in^3) |
+| :---------------- | :------: |
+| Total Volume       |    861625.87   | 
+| Wood Volume      |   82497.11   | 
+| Plastic Volume    |  30002.63   | 
+| Iron Volume  |           97.22 |
+| Regolith Volume |  743268.12   | 
+| Non-Regolith Volume | 118357.74 |
