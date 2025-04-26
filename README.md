@@ -115,6 +115,31 @@ It's just a basic panel with different sheeting
 ![Remove Regolith](https://github.com/Cardinal-Space-Mining/2025-Comp-Arena/blob/main/Arena/img/install_steps/InstallFloor.PNG?raw=true)
 4. Remove tarp and flooring
 
+### FP&M Loading and Unloading Procedures
+
+#### Loading: 
+1. Rougly 21 tons of Ag Lime will be delivered by 18 Wheeler in a dump trailer, then dumped in the SICTR parking lot
+	* Like [here](https://youtu.be/68cE22GQ5mw?si=_lyoBhohsE822YJR&t=146)
+2. The Ag Lime will be moved by Mini-skid into the Arena Shell
+	* ![Remove Regolith](https://raw.githubusercontent.com/Cardinal-Space-Mining/2025-Comp-Arena/refs/heads/main/Arena/img/install_steps/ArenaLoad.png?raw=true)
+
+#### Unloading: 
+
+1. The roof and wall will be removed by CSM volunteers. Ag Lime will be moved by Mini-skid into a 18 wheeler
+	* ![Remove Regolith](https://raw.githubusercontent.com/Cardinal-Space-Mining/2025-Comp-Arena/refs/heads/main/Arena/img/install_steps/ArenaLoad.png?raw=true)
+
+	
+#### Notes:
+* The door width is 10 ft
+* The ceiling height is:
+	* 14 ft in orange zone
+	* 8 ft in red zone
+
+#### SDS Sheets:
+* [Ag Lime](https://www.graymont.com/sites/default/files/users/user2883/NZ%20SDS/Agricultural%20Lime%20NZ%20GHS%20SDS%202022-10-05.pdf)
+* [Playground Sand (Reference)](https://www.quikrete.com/pdfs/msds-b4-playsand.pdf)
+* [Top Soil (Reference)](https://www.countymaterials.com/en/downloads/industry-tech-documents/safety-data-sheets-sds/459-topsoil-potting-soil-safety-data-sheet-sds/file)
+
 
 ### Volumetric Properties
 | Catagory| Volume (in^3) |
