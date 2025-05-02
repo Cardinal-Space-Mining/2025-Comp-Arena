@@ -2,7 +2,7 @@
 
 This is the arena for the 2025 COSMIC Competition at ISU.
 
-![arena image](https://github.com/Cardinal-Space-Mining/2025-Comp-Arena/blob/main/ISO2R.png?raw=true)
+![arena image](https://github.com/Cardinal-Space-Mining/2025-Comp-Arena/blob/main/CoverImg.png?raw=true)
 
 
 ## BOM
